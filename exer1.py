@@ -1,7 +1,7 @@
 # 1. Escreva um programa que receba 2 números de sua escolha e que depois
 # imprima a soma, a subtração, multiplicação, divisão, divisão inteira, o resto da
 # divisão do maior pelo menor e coloque na mensagem a palavra resto ao invés de
-# símbolo %.
+# símbolo %..
 
 x = float(input("Digite o primeiro número: "))
 y = float(input("Digite o segundo número: "))
