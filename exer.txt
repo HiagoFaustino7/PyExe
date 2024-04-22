@@ -8,10 +8,7 @@ símbolo %.
 3. Crie um script Python que leia o dia, mês e ano de nascimento de uma pessoa e
 mostre uma mensagem com a data formatada.
 
-4. Organize os números 2,3,4,5,10,12 para obter a saída (resposta) 18 em uma
-única operação
-
-5. Crie um programa que leia o nome completo de uma pessoa e mostre:
+4. Crie um programa que leia o nome completo de uma pessoa e mostre:
 a) O nome com todas as letras maiúsculas e minúsculas
 b) Quantas letras ao todo
 c) Quantas letras tem o primeiro nome
