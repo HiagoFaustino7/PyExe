@@ -16,12 +16,15 @@ if x > y:
 else:
     res = y % x
 
-
 print(f"SUBTRAÇÃO: {sub}")
 print(f"MULTIPLICAÇÃO: {mul}")
 print(f"DIVISÃO: {div}")
 print(f"DIVISÃO INTEIRA: {divI}")
 print(f"RESTO MAIOR PELO MENOR: {res}")
+
+
+
+
 
 
 
