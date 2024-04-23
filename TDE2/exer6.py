@@ -15,4 +15,4 @@ if letra.isalpha() and len(letra) == 1:
 
 else:
 
-    print('Você digitou mais de uma letra, ou algum número, renicie o programa')
+    print('Você digitou mais de uma letra, ou algum número, renicie o programa.')
