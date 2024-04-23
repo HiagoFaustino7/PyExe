@@ -1,0 +1,45 @@
+1. Faça um programa que sorteia um número de 0 a 9999 e mostre na tela cada
+um dos dígitos separadamente.exemplo: unidade: 4 dezena: 3 centena: 8
+milhar
+2. Desenvolva um programa que pergunte a distância de uma viagem em Km.
+Calcule o preço da passagem, cobrando R$0,50 por KM para viagens de até
+200Km e R$0,45 para viagens mais longas.
+3. Uma loja fornece 10% de desconto para funcionários e 5% de desconto para
+clientes vips. Faça um programa usando while que calcule o valor total a ser
+pago por uma pessoa. O programa deverá ler o valor total da compra
+efetuada e um código que identifique se o comprador é um cliente comum (1)
+, funcionário (2) ou vip(3) .
+4. Dado o valor do produto e a forma de pagamento.
+1= à vista;
+2= à prazo.
+Se o produto for pago à vista aplique um desconto de 10% antes de mostrar
+o valor final, senão informe o mesmo valor do produto.
+5.Crie um programa que leia o conceito de um aluno na disciplina Desenv Web 3
+e imprima seu significado, de acordo com a tabela abaixo. Caso seja informado um
+conceito inexistente, deve ser exibida uma mensagem de erro.
+Conceito Significado
+A Excelente
+B Ótimo
+C Bom
+D Regular
+E Ruim
+F Nos vemos de novo ano que vem...
+6. Dada uma letra, escreva na tela se essa letra é uma vogal ou consoante
+(considerar apenas letras minúsculas).
+7. Crie um programa usando o for que leia uma lista. Mostre apenas os
+números pares. Esta lista deve ser assim: [1, 2, 3, 4, 5, 6, 7, 8, 9]; 7. Faça um
+programa usando o for que peça uma nota, entre zero e dez. Mostre uma
+mensagem caso o valor seja inválido e continue pedindo até que o usuário
+informe um valor válido.
+8. Faça um programa usando o for que leia um nome de usuário e a sua senha
+e não aceite a senha igual ao nome do usuário, mostrando uma mensagem
+de erro e voltando a pedir as informações.
+9. Faça um programa usando o for que, dado um conjunto de N números,
+
+determine o menor valor, o maior valor e a soma dos valores.
+10.Faça um programa usando o for que calcule o número médio de alunos por
+turma. Para isto, peça a quantidade de turmas e a quantidade de alunos para
+cada turma. As turmas não podem ter mais de 40 alunos.
+11. Faça um programa que calcule as raízes de uma equação do segundo grau,
+na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer
+os testes necessários.
