@@ -18,3 +18,4 @@ elif c == 3:
     v = v * 0.95
 
 print(f"O valor total da sua compra é: {v}")
+
