@@ -2,7 +2,7 @@
 # e não aceite a senha igual ao nome do usuário, mostrando uma mensagem
 # de erro e voltando a pedir as informações.
 
-for _ in range(9999999999):
+for _ in range(999999999):
     nome = input("Digite seu nome de usuário: ")
     senha = input("Digite sua senha: ")
 

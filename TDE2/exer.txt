@@ -35,7 +35,6 @@ informe um valor válido.
 e não aceite a senha igual ao nome do usuário, mostrando uma mensagem
 de erro e voltando a pedir as informações.
 10. Faça um programa usando o for que, dado um conjunto de N números,
-
 determine o menor valor, o maior valor e a soma dos valores.
 11.Faça um programa usando o for que calcule o número médio de alunos por
 turma. Para isto, peça a quantidade de turmas e a quantidade de alunos para
