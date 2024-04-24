@@ -11,3 +11,4 @@ while senha != csenha:
     csenha = input("A senha não é igual a anterior, digite novamente: ")
 
 print("Cadastro finalizado")
+
