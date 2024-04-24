@@ -28,7 +28,6 @@ ordem lida.
 8. Frequência de Letras:
 Crie um programa que receba uma string como entrada e conte o número de
 ocorrências de cada letra do alfabeto (ignorando maiúsculas/minúsculas). O
-
 programa deve imprimir um dicionário onde as chaves são as letras do alfabeto e os
 valores são o número de vezes que cada letra ocorre na string.
 9. Média de Notas:
