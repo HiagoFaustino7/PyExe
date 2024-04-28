@@ -14,7 +14,7 @@ for i in range(4):
     lista.append(n)
     if n == 9:
         nove += 1
-    if n == 3:
+    if pos == 0 and n == 3:
         pos = i + 1
     if n % 2 == 0:
         pares.append(n)
@@ -24,3 +24,4 @@ if pos > 0:
 else:
     print("O valor 3 não foi digitado.")
 print(f"Números pares digitados: {pares}")
+

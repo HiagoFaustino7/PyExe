@@ -5,11 +5,15 @@
 
 
 import random
+
 lista = []
 green = 0
-for i in range(0, 50):
+
+for i in range(50):
     dado = random.randint(1, 6)
     lista.append(dado)
     if dado == 6:
-        green = green + 1
+        green += 1
+
+
 print(f"Apareceu o dado 6: {green} vezes = {100* (green / 50):.2f}% das vezes")
